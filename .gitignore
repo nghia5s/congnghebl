@@ -1,0 +1,17 @@
+maze-bank-web3/node_modules/
+maze-bank-web3/build/
+maze-bank-web3/cache/
+maze-bank-web3/artifacts/
+maze-bank-web3/backend/ledger.json
+maze-bank-web3/backend/hardhat-contract.json
+maze-bank-web3/.env
+maze-bank-web3/.env.local
+maze-bank-web3/.env.development.local
+maze-bank-web3/.env.test.local
+maze-bank-web3/.env.production.local
+maze-bank-web3/coverage/
+maze-bank-web3/typechain/
+maze-bank-web3/typechain-types/
+maze-bank-web3/ignition/deployments/chain-31337/
+maze-bank-web3.zip
+*.log
