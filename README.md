@@ -25,6 +25,8 @@ Maze Bank Web3 là ứng dụng ngân hàng demo kết hợp backend truyền th
 
 Dự án sử dụng Hardhat để chạy blockchain cục bộ, smart contract `Dcoin` để quản lý token ERC-20 nội bộ có symbol `DCN`, backend Node.js để quản lý tài khoản và React để hiển thị dashboard. Mỗi tài khoản được gắn một `walletAddress` riêng, còn số dư và lịch sử giao dịch được đồng bộ với smart contract trên Hardhat local chain.
 
+![Ảnh](https://github.com/nghia5s/congnghebl/blob/efaffb5ebea78150033565059da4669de5d87a1c/Screenshot%202026-06-04%20143507.png?raw=true)
+
 ## 2. Công nghệ sử dụng
 
 - Frontend: React, React Toastify, CSS.
