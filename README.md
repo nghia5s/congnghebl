@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-   ỨNG DỤNG GIAO DỊCH NỘI BỘ
+   ỨNG DỤNG NGÂN HÀNG PHI TẬP TRUNG TRÊN BLOCKCHAIN
 </h2>
 <div align="center">
     <p align="center">
